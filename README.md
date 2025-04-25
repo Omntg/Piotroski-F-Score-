@@ -1,4 +1,4 @@
-# Piotroski-F-Score-
+# Piotroski-F-Score
 Ilk once Piotroski_Data.py adli dosyayi calistiriniz, bu kod finansallar.xlsx adli excell dosyasini olusturacaktir.
 Yine ayni klasorde olacak sekilde Piotroski.py kodunu calistiriniz. Bu kod finansallar.xlsx dosyasini kullanarak, 
 piotroski_skorlari.xlsx adli excell dosyasini yine kod ile ayni dizindeki klasorde olusturacaktir.
